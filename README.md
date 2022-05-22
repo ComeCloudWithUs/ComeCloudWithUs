@@ -1,6 +1,6 @@
 - 👋 Hi, we're @ComeCloudWithUs
 - 👀 We're here to help you learn about various cloud technologies, while meeting you at your current spot in your journey.
-- 💞️ we're looking to collaborate on anything and everything in the cloud!
+- 💞️ We're looking to collaborate on anything and everything in the cloud!
 - 📫 Reach the Come Cloud With Us team at https://linktr.ee/comecloudwithus
 
 <!---
